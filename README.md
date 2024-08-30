@@ -8,6 +8,7 @@ Agile is iterative and incremental such that projects are divided to smaller pri
 The advantage of agile is its adaptability while its disadvantage is that it has less documentation and its difficult to plan. 
 The advantage of waterfall is it has a clear structure of how the project is supposed to be done hence a predictable timeline. The disadvantage is that it is not flexible.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is suitable for projects where requirements are expectd to change or are not fully understood. An example is digital marketing campaigns to be adjusted based on performance. While waterfall project is suitable for projects which are well defined  and understood and are likely to not change an example is an enterprise software implementation where requirements are clear and the systems are clear and the systems need to be fully tested.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 Conducting various tests in the projects being developed, having developers review each others code to identify potential issues and tracking quality metrics. It is important to maintain high standards to enhance customer satisfaction and reduce on cost.
@@ -17,10 +18,13 @@ Work Breakdown Scructure is a project management tool that breaks down projects 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 Some of the benefits are that it improves planning and coordinating tasks, It helps in resource allocation and also identifying potential risks and develop contigency plans. Gantt charts are visual representation of a project scheduling and they help in creating a clear overview of the projects timeline,tracking progress and identifying tasks that depend on others
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+inefficiency- the sofware will automate these processes and freeing up resources such at time.
+Lack or real time insights- The software will provide analytics inreal time which will better informed decisions 
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Clear defining helps in identifying the root cause of the problem to ensure the solution addresses it it also helps in measuring the success criteria for the solution
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
 
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
